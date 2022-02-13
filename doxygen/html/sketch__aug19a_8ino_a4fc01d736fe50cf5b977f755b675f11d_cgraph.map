@@ -1,0 +1,7 @@
+<map id="setup" name="setup">
+<area shape="rect" id="node2" href="$event__mgr_8cpp.html#a42ad370315e4f32152824e38167216d3" title="EventMgrInit" alt="" coords="108,31,204,57"/>
+<area shape="rect" id="node5" href="$gpio_8cpp.html#aec6c2e01969e7a086f7dc11853dad378" title="Initialize gpio unit. " alt="" coords="119,81,193,108"/>
+<area shape="rect" id="node6" href="$timer_8cpp.html#a6b6df34cc1c872e8748ca55b03bce616" title="Timer_Run" alt="" coords="113,132,199,159"/>
+<area shape="rect" id="node3" href="$button_8cpp.html#a8e88f6fba75b14911dfdbf0645b2f99d" title="Button_FindHandler" alt="" coords="252,5,389,32"/>
+<area shape="rect" id="node4" href="$timer_8cpp.html#a8466e0406ba9fd7cc0827d6c4ebdf1d1" title="Timer_FindHandler" alt="" coords="255,56,387,83"/>
+</map>

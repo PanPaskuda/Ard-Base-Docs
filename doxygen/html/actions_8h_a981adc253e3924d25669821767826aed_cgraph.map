@@ -1,0 +1,4 @@
+<map id="Actions_toggleWallLightB" name="Actions_toggleWallLightB">
+<area shape="rect" id="node2" href="$gpio_8cpp.html#a051e6d6b22995472699132717f0d01ee" title="Get pin state. " alt="" coords="224,5,351,32"/>
+<area shape="rect" id="node3" href="$gpio_8cpp.html#a15f40150179c8a60447347a0f5c00bd7" title="Set pin state to High(true) or Low(false) " alt="" coords="224,56,351,83"/>
+</map>

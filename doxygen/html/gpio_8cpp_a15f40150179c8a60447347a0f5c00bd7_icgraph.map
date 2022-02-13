@@ -1,0 +1,30 @@
+<map id="Gpio_SetPinState" name="Gpio_SetPinState">
+<area shape="rect" id="node2" href="$actions_8h.html#ae69f4e9ddc32b8ff60766bc6d13b8ed3" title="Actions_disableAllLight" alt="" coords="195,5,352,32"/>
+<area shape="rect" id="node3" href="$actions_8h.html#a0ed0be7ba8fd3f17b41dbebe8517106c" title="Actions_disableBedLight" alt="" coords="191,56,356,83"/>
+<area shape="rect" id="node4" href="$actions_8h.html#a0a3719b7a9956a345c797a34ae527b11" title="Actions_disableKitchAllLight" alt="" coords="180,107,367,133"/>
+<area shape="rect" id="node5" href="$actions_8h.html#a6a161e31c81f7fd103294e21ad5ba063" title="Actions_disableKitchenLed\lLight" alt="" coords="184,158,363,199"/>
+<area shape="rect" id="node6" href="$actions_8h.html#ac0d9793cc4d53d50bbc1f768eeaf8f7a" title="Actions_disableLivingLight" alt="" coords="185,224,361,251"/>
+<area shape="rect" id="node7" href="$actions_8h.html#a01ca615fce9a985dd15b5a67bbef844b" title="Actions_disableLivingLightA" alt="" coords="181,275,366,301"/>
+<area shape="rect" id="node8" href="$actions_8h.html#a216b59109d60ea13a3a2c00281050fbc" title="Actions_disableLivingLightB" alt="" coords="181,325,366,352"/>
+<area shape="rect" id="node9" href="$actions_8h.html#a0dbddede556d8186b9098a28ce775d24" title="Actions_disableWallLight" alt="" coords="189,376,357,403"/>
+<area shape="rect" id="node10" href="$actions_8h.html#ad09c9f0392b7aaad5115a4b5a2bec32b" title="Actions_disableWallLightA" alt="" coords="185,427,362,453"/>
+<area shape="rect" id="node11" href="$actions_8h.html#ad2439ea1cbdd2313de242c681aed80a9" title="Actions_disableWallLightB" alt="" coords="185,477,362,504"/>
+<area shape="rect" id="node12" href="$actions_8h.html#a7af39d1472c930f366dec89d5de401b3" title="Actions_enableAllLight" alt="" coords="196,528,351,555"/>
+<area shape="rect" id="node13" href="$actions_8h.html#a2463f4cb0df238551e488b4f8e691df7" title="Actions_enableBedLight" alt="" coords="192,579,355,605"/>
+<area shape="rect" id="node14" href="$actions_8h.html#a5cf94ea6ee99fcd14e22f2cf65e75124" title="Actions_enableKitchenAll\lLight" alt="" coords="188,630,359,671"/>
+<area shape="rect" id="node15" href="$actions_8h.html#a5468ba8fe0aed80f27f1f53ef044f374" title="Actions_enableKitchenLed\lLight" alt="" coords="185,695,361,737"/>
+<area shape="rect" id="node16" href="$actions_8h.html#a83c9c5ac7d9f1562d9ed578e2d29e4a9" title="Actions_enableLivingLight" alt="" coords="187,761,360,788"/>
+<area shape="rect" id="node17" href="$actions_8h.html#a5300cefe2a598cb9bfedb228d7ea4ef5" title="Actions_enableLivingLightA" alt="" coords="182,812,365,839"/>
+<area shape="rect" id="node18" href="$actions_8h.html#a8e355420b1a82d34adcc3fe4c9ded34e" title="Actions_enableLivingLightB" alt="" coords="182,863,365,889"/>
+<area shape="rect" id="node19" href="$actions_8h.html#a1306e931d4ce46bd6eb10beea172b80c" title="Actions_enableWallLight" alt="" coords="191,913,356,940"/>
+<area shape="rect" id="node20" href="$actions_8h.html#a84e5dd5ddef0bc41629dda9e9f98a9ff" title="Actions_enableWallLightA" alt="" coords="186,964,361,991"/>
+<area shape="rect" id="node21" href="$actions_8h.html#a542352a4de55ef17cded516f0cb76361" title="Actions_enableWallLightB" alt="" coords="186,1015,361,1041"/>
+<area shape="rect" id="node22" href="$actions_8h.html#a55a031819cd0eb2f7958b7645868ddf4" title="Actions_toggleKitchenLed\lLight" alt="" coords="187,1066,360,1107"/>
+<area shape="rect" id="node23" href="$actions_8h.html#a0085a36629f848165927e7e5cc195393" title="Actions_toggleKitchenMain\lLight" alt="" coords="183,1131,363,1173"/>
+<area shape="rect" id="node24" href="$actions_8h.html#a3472a81cea4d8a348cce3dd1c684ec46" title="Actions_toggleLed" alt="" coords="209,1197,338,1224"/>
+<area shape="rect" id="node25" href="$actions_8h.html#a212249f53e1f4916f72e090a14820019" title="Actions_toggleLivingLightA" alt="" coords="184,1248,363,1275"/>
+<area shape="rect" id="node26" href="$actions_8h.html#af20c09e08d26f491ade519a628558dbb" title="Actions_toggleLivingLightB" alt="" coords="184,1299,363,1325"/>
+<area shape="rect" id="node27" href="$actions_8h.html#a26a2d0d165d28ce24020b9e0ec059b24" title="Actions_toggleMainLight" alt="" coords="191,1349,355,1376"/>
+<area shape="rect" id="node28" href="$actions_8h.html#ad4ccbda4856e2d2bb35190fc54457170" title="Actions_toggleWallLightA" alt="" coords="188,1400,359,1427"/>
+<area shape="rect" id="node29" href="$actions_8h.html#a981adc253e3924d25669821767826aed" title="Actions_toggleWallLightB" alt="" coords="188,1451,359,1477"/>
+</map>

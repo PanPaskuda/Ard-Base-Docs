@@ -1,0 +1,12 @@
+<map id="Gpio_GetPinState" name="Gpio_GetPinState">
+<area shape="rect" id="node2" href="$actions_8h.html#a55a031819cd0eb2f7958b7645868ddf4" title="Actions_toggleKitchenLed\lLight" alt="" coords="183,5,357,47"/>
+<area shape="rect" id="node3" href="$actions_8h.html#a0085a36629f848165927e7e5cc195393" title="Actions_toggleKitchenMain\lLight" alt="" coords="180,71,360,112"/>
+<area shape="rect" id="node4" href="$actions_8h.html#a3472a81cea4d8a348cce3dd1c684ec46" title="Actions_toggleLed" alt="" coords="205,137,335,163"/>
+<area shape="rect" id="node5" href="$actions_8h.html#a212249f53e1f4916f72e090a14820019" title="Actions_toggleLivingLightA" alt="" coords="181,187,359,214"/>
+<area shape="rect" id="node6" href="$actions_8h.html#af20c09e08d26f491ade519a628558dbb" title="Actions_toggleLivingLightB" alt="" coords="181,238,359,265"/>
+<area shape="rect" id="node7" href="$actions_8h.html#a26a2d0d165d28ce24020b9e0ec059b24" title="Actions_toggleMainLight" alt="" coords="188,289,352,315"/>
+<area shape="rect" id="node8" href="$actions_8h.html#ad4ccbda4856e2d2bb35190fc54457170" title="Actions_toggleWallLightA" alt="" coords="185,339,355,366"/>
+<area shape="rect" id="node9" href="$actions_8h.html#a981adc253e3924d25669821767826aed" title="Actions_toggleWallLightB" alt="" coords="185,390,355,417"/>
+<area shape="rect" id="node10" href="$button_8h.html#aa12143d552c51003980a13783c22a582" title="buttonTask" alt="" coords="227,441,313,467"/>
+<area shape="rect" id="node11" href="$sketch__aug19a_8ino.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="408,441,455,467"/>
+</map>

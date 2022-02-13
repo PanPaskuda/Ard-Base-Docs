@@ -1,0 +1,6 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node2" href="$button_8cpp.html#aa12143d552c51003980a13783c22a582" title="buttonTask" alt="" coords="139,5,225,32"/>
+<area shape="rect" id="node4" href="$event__mgr_8cpp.html#a6a61401ab05245d889f02ca9825cccee" title="EventMgr_CheckEvents" alt="" coords="100,56,264,83"/>
+<area shape="rect" id="node5" href="$timer_8cpp.html#a1fdc7dde4c65d532a743a96631121667" title="Timer_TaskMain" alt="" coords="123,107,241,133"/>
+<area shape="rect" id="node3" href="$gpio_8cpp.html#a051e6d6b22995472699132717f0d01ee" title="Get pin state. " alt="" coords="312,5,439,32"/>
+</map>
