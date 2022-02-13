@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="564px" preserveAspectRatio="none" style="width:820px;height:564px;background:#FFFFFF;" version="1.1" viewBox="0 0 820 564" width="820px" zoomAndPan="magnify"><defs/><g><!--MD5=[d64883541e3d62e3241c4d12decf100d]
+cluster Application--><polygon points="16,6,115,6,122,28.2969,294,28.2969,294,209,16,209,16,6" style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="16" x2="122" y1="28.2969" y2="28.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="93" x="20" y="20.9951">Application</text><!--MD5=[b81d475bff8382f6de843883a7fc380d]
+cluster Modules--><polygon points="43,233,116,233,123,255.2969,492,255.2969,492,436,43,436,43,233" style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="43" x2="123" y1="255.2969" y2="255.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="67" x="47" y="247.9951">Modules</text><!--MD5=[06d07874b31b21c282b1021122bda260]
+cluster Drivers--><polygon points="516,339,579,339,586,361.2969,721,361.2969,721,436,516,436,516,339" style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="516" x2="586" y1="361.2969" y2="361.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="57" x="520" y="353.9951">Drivers</text><!--MD5=[9194ca64bdd58b16840f3a48955da8ae]
+cluster HW config--><polygon points="433,460,521,460,528,482.2969,803,482.2969,803,557,433,557,433,460" style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="433" x2="528" y1="482.2969" y2="482.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="82" x="437" y="474.9951">HW config</text><!--MD5=[2456f3a6f5aa4d75f9c9b6fd42c52dfa]
+entity Main--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="73" x="69.5" y="41"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="122.5" y="46"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="120.5" y="48"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="120.5" y="52"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="84.5" y="73.9951">Main</text><!--MD5=[1ea67279699beb664a5f1f6add9d759e]
+entity Event Manager--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="147" x="32.5" y="147"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="159.5" y="152"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="157.5" y="154"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="157.5" y="158"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="47.5" y="179.9951">Event Manager</text><path d="M214.5,157.5 L214.5,166 L179.555,170 L214.5,174 L214.5,182.6328 A0,0 0 0 0 214.5,182.6328 L277.5,182.6328 A0,0 0 0 0 277.5,182.6328 L277.5,167.5 L267.5,157.5 L214.5,157.5 A0,0 0 0 0 214.5,157.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M267.5,157.5 L267.5,167.5 L277.5,167.5 L267.5,157.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="220.5" y="174.5669">REQF4</text><!--MD5=[0d7f6108bf18c049dbeddcb93a0698de]
+entity Button--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="90" x="287" y="268"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="357" y="273"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="355" y="275"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="355" y="279"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="302" y="300.9951">Button</text><path d="M412.5,278.5 L412.5,287 L377.062,291 L412.5,295 L412.5,303.6328 A0,0 0 0 0 412.5,303.6328 L475.5,303.6328 A0,0 0 0 0 475.5,303.6328 L475.5,288.5 L465.5,278.5 L412.5,278.5 A0,0 0 0 0 412.5,278.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M465.5,278.5 L465.5,288.5 L475.5,288.5 L465.5,278.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="418.5" y="295.5669">REQF2</text><!--MD5=[1bfc463d4b7b2bceea9aef8616727621]
+entity Timer--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="82" x="62" y="374"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="124" y="379"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="122" y="381"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="122" y="385"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="42" x="77" y="406.9951">Timer</text><path d="M179.5,384.5 L179.5,393 L144.344,397 L179.5,401 L179.5,409.6328 A0,0 0 0 0 179.5,409.6328 L242.5,409.6328 A0,0 0 0 0 242.5,409.6328 L242.5,394.5 L232.5,384.5 L179.5,384.5 A0,0 0 0 0 179.5,384.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M232.5,384.5 L232.5,394.5 L242.5,394.5 L232.5,384.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="185.5" y="401.5669">REQF3</text><!--MD5=[e285ef51bab5d295dd3ac68ff2ad5499]
+entity Actions--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="59" y="268"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="133" y="273"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="131" y="275"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="131" y="279"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="74" y="300.9951">Actions</text><path d="M188.5,278.5 L188.5,287 L153.203,291 L188.5,295 L188.5,303.6328 A0,0 0 0 0 188.5,303.6328 L251.5,303.6328 A0,0 0 0 0 251.5,303.6328 L251.5,288.5 L241.5,278.5 L188.5,278.5 A0,0 0 0 0 188.5,278.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M241.5,278.5 L241.5,288.5 L251.5,288.5 L241.5,278.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="194.5" y="295.5669">REQF5</text><!--MD5=[68272091b4d52455189e6ce67aa2dc10]
+entity Gpio--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="74" x="532" y="374"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="586" y="379"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="584" y="381"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="584" y="385"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="34" x="547" y="406.9951">Gpio</text><path d="M641.5,384.5 L641.5,393 L606.375,397 L641.5,401 L641.5,409.6328 A0,0 0 0 0 641.5,409.6328 L704.5,409.6328 A0,0 0 0 0 704.5,409.6328 L704.5,394.5 L694.5,384.5 L641.5,384.5 A0,0 0 0 0 641.5,384.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M694.5,384.5 L694.5,394.5 L704.5,394.5 L694.5,384.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="647.5" y="401.5669">REQF1</text><!--MD5=[754094b014d4279b7c158becb44a4eec]
+entity Hardware Abstraction Layer--><rect fill="#F1F1F1" height="46.2969" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="239" x="449.5" y="495"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="668.5" y="500"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="666.5" y="502"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="666.5" y="506"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="199" x="464.5" y="527.9951">Hardware Abstraction Layer</text><path d="M723.5,505.5 L723.5,514 L688.52,518 L723.5,522 L723.5,530.6328 A0,0 0 0 0 723.5,530.6328 L786.5,530.6328 A0,0 0 0 0 786.5,530.6328 L786.5,515.5 L776.5,505.5 L723.5,505.5 A0,0 0 0 0 723.5,505.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M776.5,505.5 L776.5,515.5 L786.5,515.5 L776.5,505.5 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="729.5" y="522.5669">REQF1</text><!--MD5=[252a6964405c21d2d8fab84d58637d62]
+link Main to Event Manager--><path d="M106,87.056 C106,103.05 106,124.778 106,141.842 " fill="none" id="Main-to-Event Manager" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="106,146.976,110,137.976,106,141.976,102,137.976,106,146.976" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[e16628433ff37127c1169a26459aa6fb]
+link Event Manager to Button--><path d="M142.386,193.159 C158.558,202.001 178.167,211.393 197,217 C227.859,226.187 240.091,210.826 269,225 C286.775,233.715 302.311,249.591 313.508,263.472 " fill="none" id="Event Manager-to-Button" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="316.841,267.705,314.4167,258.1592,313.7481,263.7764,308.1309,263.1078,316.841,267.705" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[af4c4d92f4fe8a5ea1760cff69025204]
+link Event Manager to Timer--><path d="M68.236,193.239 C57.3989,201.694 46.9212,212.383 41,225 C24.1952,260.808 28.4185,276.499 41,314 C48.005,334.88 62.6625,354.683 75.9674,369.596 " fill="none" id="Event Manager-to-Timer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="79.6767,373.669,76.5736,364.3218,76.3099,369.9725,70.6592,369.7087,79.6767,373.669" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[556b212d8dfbfd52e332faea9ae444f4]
+link Event Manager to Actions--><path d="M106,193.104 C106,212.685 106,241.351 106,262.426 " fill="none" id="Event Manager-to-Actions" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="106,267.61,110,258.61,106,262.61,102,258.61,106,267.61" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[d0af1c0428fc9d6b2424f0d3473a9b75]
+link Button to Gpio--><path d="M377.152,308.754 C383.109,310.673 389.17,312.482 395,314 C437.356,325.029 452.35,312.465 492,331 C511.991,340.345 530.976,356.262 545.093,370.006 " fill="none" id="Button-to-Gpio" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="548.942,373.817,545.3619,364.6419,545.3894,370.2986,539.7326,370.3261,548.942,373.817" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[5ce5cd53106d5f4e2d6e7a33eee80e8d]
+link Actions to Gpio--><path d="M153.166,309.629 C159.106,311.354 165.15,312.877 171,314 C241.153,327.465 425.583,304.703 492,331 C512.964,339.3 532.336,355.718 546.405,369.976 " fill="none" id="Actions-to-Gpio" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="550.23,373.932,546.851,364.6809,546.755,370.337,541.0989,370.2409,550.23,373.932" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[ab740204722d834cc5b39fc344c69961]
+link Actions to Timer--><path d="M105.364,314.056 C104.902,330.05 104.276,351.778 103.783,368.842 " fill="none" id="Actions-to-Timer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="103.635,373.976,107.893,365.0952,103.7793,368.9781,99.8963,364.8643,103.635,373.976" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[2b3131ecbbf25d015922e95128a6d01d]
+link Gpio to Hardware Abstraction Layer--><path d="M569,420.104 C569,439.685 569,468.351 569,489.4262 " fill="none" id="Gpio-to-Hardware Abstraction Layer" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="569,494.6105,573,485.6105,569,489.6105,565,485.6105,569,494.6105" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[b9dadb3ad715ad5eca6be6b21f275f80]
+@startuml
+package "Application" {
+  [Main]
+  [Event Manager]
+note right of [Event Manager]
+    REQF4
+end note
+}
+
+package "Modules" {
+  [Button]
+note right of [Button]
+    REQF2
+end note
+  [Timer]
+note right of [Timer]
+    REQF3
+end note
+  [Actions]
+note right of [Actions]
+    REQF5
+end note
+}
+
+package "Drivers"{
+  [Gpio]
+note right of [Gpio]
+    REQF1
+end note
+}
+
+package "HW config"{
+  [Hardware Abstraction Layer]
+note right of [Hardware Abstraction Layer]
+    REQF1
+end note
+}
+
+
+[Main] - -> [Event Manager]
+[Event Manager] - -> [Button]
+[Event Manager] - -> [Timer]
+[Event Manager] - -> [Actions]
+[Button] - -> [Gpio]
+[Actions] - -> [Gpio]
+[Actions] - -> [Timer]
+[Gpio] - -> [Hardware Abstraction Layer]
+@enduml
+
+PlantUML version 1.2022.2beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
